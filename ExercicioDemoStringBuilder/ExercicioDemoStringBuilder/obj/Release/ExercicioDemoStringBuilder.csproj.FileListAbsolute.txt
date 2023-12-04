@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\ExercicioDemoStringBuilder\ExercicioDemoStringBuilder\bin\Release\ExercicioDemoStringBuilder.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\ExercicioDemoStringBuilder\ExercicioDemoStringBuilder\bin\Release\ExercicioDemoStringBuilder.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\ExercicioDemoStringBuilder\ExercicioDemoStringBuilder\bin\Release\ExercicioDemoStringBuilder.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\ExercicioDemoStringBuilder\ExercicioDemoStringBuilder\obj\Release\ExercicioDemoStringBuilder.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\ExercicioDemoStringBuilder\ExercicioDemoStringBuilder\obj\Release\ExercicioDemoStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\ExercicioDemoStringBuilder\ExercicioDemoStringBuilder\obj\Release\ExercicioDemoStringBuilder.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\ExercicioDemoStringBuilder\ExercicioDemoStringBuilder\obj\Release\ExercicioDemoStringBuilder.pdb

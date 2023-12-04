@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AtividadeEncapsulamento",
+    "\\AtividadeEncapsulamento\\AtividadeEncapsulamento"
   ],
-  "SelectedNode": "\\AtividadeEncapsulamento",
+  "SelectedNode": "\\AtividadeEncapsulamento\\AtividadeEncapsulamento\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
