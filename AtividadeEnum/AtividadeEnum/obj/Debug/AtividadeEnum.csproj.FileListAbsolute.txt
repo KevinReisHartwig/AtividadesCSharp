@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeEnum\AtividadeEnum\bin\Debug\AtividadeEnum.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeEnum\AtividadeEnum\bin\Debug\AtividadeEnum.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeEnum\AtividadeEnum\bin\Debug\AtividadeEnum.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeEnum\AtividadeEnum\obj\Debug\AtividadeEnum.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeEnum\AtividadeEnum\obj\Debug\AtividadeEnum.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeEnum\AtividadeEnum\obj\Debug\AtividadeEnum.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeEnum\AtividadeEnum\obj\Debug\AtividadeEnum.pdb

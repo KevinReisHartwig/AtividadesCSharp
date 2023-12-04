@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\bin\Debug\net8.0\CursoUdemyC#.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\obj\Debug\net8.0\refint\CursoUdemyC#.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\obj\Debug\net8.0\CursoUdemyC#.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\CursoUdemyC#\obj\Debug\net8.0\ref\CursoUdemyC#.dll

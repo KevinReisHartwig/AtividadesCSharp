@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\bin\Debug\net8.0\AtividadeMatrix.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\bin\Debug\net8.0\AtividadeMatrix.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\bin\Debug\net8.0\AtividadeMatrix.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\bin\Debug\net8.0\AtividadeMatrix.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\bin\Debug\net8.0\AtividadeMatrix.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\obj\Debug\net8.0\AtividadeMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\obj\Debug\net8.0\AtividadeMatrix.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\obj\Debug\net8.0\AtividadeMatrix.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\obj\Debug\net8.0\AtividadeMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\obj\Debug\net8.0\AtividadeMatrix.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\obj\Debug\net8.0\refint\AtividadeMatrix.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\obj\Debug\net8.0\AtividadeMatrix.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\obj\Debug\net8.0\AtividadeMatrix.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\CursoUdemyC#\AtividadeMatrix\obj\Debug\net8.0\ref\AtividadeMatrix.dll
