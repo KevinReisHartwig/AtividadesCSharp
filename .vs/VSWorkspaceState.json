@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\AtividadeEncapsulamento",
-    "\\AtividadeEncapsulamento\\AtividadeEncapsulamento"
+    "\\AtividadeEncapsulamento\\AtividadeEncapsulamento",
+    "\\AtividadeHeran\u00E7aPolimorfismo",
+    "\\AtividadeHeran\u00E7aPolimorfismo\\AtividadeHeran\u00E7aPolimorfismo",
+    "\\AtividadeMetodoAbstrato\\AtividadeMetodoAbstrato"
   ],
-  "SelectedNode": "\\AtividadeEncapsulamento\\AtividadeEncapsulamento\\Program.cs",
+  "SelectedNode": "\\AtividadeHeran\u00E7aPolimorfismo\\AtividadeHeran\u00E7aPolimorfismo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\bin\Debug\net8.0\AtividadeMetodoAbstrato.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\bin\Debug\net8.0\AtividadeMetodoAbstrato.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\bin\Debug\net8.0\AtividadeMetodoAbstrato.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\bin\Debug\net8.0\AtividadeMetodoAbstrato.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\bin\Debug\net8.0\AtividadeMetodoAbstrato.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\AtividadeMetodoAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\AtividadeMetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\AtividadeMetodoAbstrato.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\AtividadeMetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\AtividadeMetodoAbstrato.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\AtividadeMetodoAbstrato.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\refint\AtividadeMetodoAbstrato.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\AtividadeMetodoAbstrato.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\AtividadeMetodoAbstrato.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeMetodoAbstrato\AtividadeMetodoAbstrato\obj\Debug\net8.0\ref\AtividadeMetodoAbstrato.dll
