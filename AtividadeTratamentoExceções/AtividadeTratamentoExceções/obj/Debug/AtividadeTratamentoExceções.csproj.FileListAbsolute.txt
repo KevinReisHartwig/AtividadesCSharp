@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeTratamentoExceções\AtividadeTratamentoExceções\bin\Debug\AtividadeTratamentoExceções.exe.config
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeTratamentoExceções\AtividadeTratamentoExceções\bin\Debug\AtividadeTratamentoExceções.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeTratamentoExceções\AtividadeTratamentoExceções\bin\Debug\AtividadeTratamentoExceções.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeTratamentoExceções\AtividadeTratamentoExceções\obj\Debug\AtividadeTratamentoExceções.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeTratamentoExceções\AtividadeTratamentoExceções\obj\Debug\AtividadeTratamentoExceções.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeTratamentoExceções\AtividadeTratamentoExceções\obj\Debug\AtividadeTratamentoExceções.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Projetos\AtividadeTratamentoExceções\AtividadeTratamentoExceções\obj\Debug\AtividadeTratamentoExceções.pdb
